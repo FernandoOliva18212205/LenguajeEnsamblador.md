@@ -70,6 +70,16 @@ compilador que realice determinadas tareas en el proceso de compilación. Son f�
 * Directivas de operando
 * Directivas de Macros
 
+### Ejecucion de QEMU
+
+![](images/cd.jpg)
+
+![](images/qemu1.jpg)
+
+![](images/quemu2.jpg)
+
+![](images/qemu3.jpg)
+
 ## Rotaciones y desplazamientos
 Las instrucciones de desplazamiento pueden ser lógicas o aritméticas.
 Los desplazamientos lógicos desplazan los bit del registro fuente introduciendo
