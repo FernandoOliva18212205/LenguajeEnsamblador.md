@@ -1,3 +1,13 @@
+    @@
+    @@ Instituto Tecnologico de Tijuana
+    @@ Depto de Sistemas y Computación
+    @@ Ing. En Sistemas Computacionales
+    @@   
+    @@ Autor : Oliver Villalobos
+    @@ Repositorio: http://github.com/olivervillalobos
+    @@ Fecha de elaboracion: 19/10/2020
+    @@ 
+
 .text
 .global main
 
